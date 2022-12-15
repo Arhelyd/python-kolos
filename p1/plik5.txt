@@ -1,0 +1,4 @@
+Przykładowy 
+tekst
+z wyrazem hello 
+koniec

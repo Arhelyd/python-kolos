@@ -1,0 +1,8 @@
+(srodowisko) C:\Users\damit\Desktop\p5\srodowisko>pip install pycodestyle
+Collecting pycodestyle
+  Downloading pycodestyle-2.7.0-py2.py3-none-any.whl (41 kB)
+     |████████████████████████████████| 41 kB 77 kB/s
+Installing collected packages: pycodestyle
+Successfully installed pycodestyle-2.7.0
+
+Nie wiedziałem jak sprawdzić zgodność ze standardem 

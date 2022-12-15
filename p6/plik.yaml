@@ -1,0 +1,15 @@
+network:
+  addresses:
+  - 1.1.1.1
+  - 8.8.8.8
+  - 4.4.4.4.3
+  enp0s25: null
+  ethernets: null
+  gateway4: 192.168.0.1
+  nameservers: null
+  renderer: networkd
+  search:
+  - example.com
+  - sales.example.com
+  - dev.example.com
+  version: 2
